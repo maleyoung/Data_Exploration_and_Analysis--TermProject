@@ -1,5 +1,6 @@
 # Data Exploration and Analysis - Term Project
-A completed term project for my Master's Degree. The statistical question I chose to evaluate based on this dataset was: *Is there a correlation between secondary school age student alcohol consumption and student absenteeism or poor academic performance?*
+A completed term project for my Master's Degree. 
+The statistical question I chose to evaluate based on this dataset was: *Is there a correlation between secondary school age student alcohol consumption and student absenteeism or poor academic performance?*
 
 # Project Description: 
 A project that takes you through the exploratory data analysis (EDA) process. 
