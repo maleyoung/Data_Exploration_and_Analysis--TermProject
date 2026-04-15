@@ -1,5 +1,6 @@
 # Data Exploration and Analysis - Term Project
 A completed term project for my Master's Degree. 
+
 The statistical question I chose to evaluate based on this dataset was: *Is there a correlation between secondary school age student alcohol consumption and student absenteeism or poor academic performance?*
 
 # Project Description: 
@@ -12,6 +13,20 @@ A key outcome of the project will be a list of questions/hypotheses about the da
 
 # Process:
 **Exploring the Data:** 
-- Importing dataset and cleaning data
+- Importing Dataset and Cleaning Data
 - Develop a Statistical Question
-- Identifying variables 
+- Identifying Variables 
+- Investigating Descriptive Statistics for Each Variable
+- Creating Histograms to Compare Variable Data Distributions
+- Identification and Handling of Outliers
+**Diving Deeper into the Data to Answer the Statistical Question**
+- Probability Mass Function Comparisons
+- Cumulative Distribution Functions
+- Analytical Distribution
+- Scatter Plots
+**Hypothesis Testing**
+- Developing Null Hypotheses, Alternative Hypotheses, and Testing Methods
+- Calculating Correlation Coefficients and p-values
+- Regression Analysis
+
+??? - Conclusion??
