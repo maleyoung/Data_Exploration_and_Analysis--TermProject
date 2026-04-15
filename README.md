@@ -19,6 +19,7 @@ A key outcome of the project will be a list of questions/hypotheses about the da
 - Investigating Descriptive Statistics for Each Variable
 - Creating Histograms to Compare Variable Data Distributions
 - Identification and Handling of Outliers
+- Project Summary
 
 **Diving Deeper into the Data to Answer the Statistical Question**
 - Probability Mass Function Comparisons
