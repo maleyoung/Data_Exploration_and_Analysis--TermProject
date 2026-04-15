@@ -19,11 +19,13 @@ A key outcome of the project will be a list of questions/hypotheses about the da
 - Investigating Descriptive Statistics for Each Variable
 - Creating Histograms to Compare Variable Data Distributions
 - Identification and Handling of Outliers
+
 **Diving Deeper into the Data to Answer the Statistical Question**
 - Probability Mass Function Comparisons
 - Cumulative Distribution Functions
 - Analytical Distribution
 - Scatter Plots
+  
 **Hypothesis Testing**
 - Developing Null Hypotheses, Alternative Hypotheses, and Testing Methods
 - Calculating Correlation Coefficients and p-values
